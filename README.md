@@ -47,7 +47,6 @@
 <!-- About Me Section with enhanced styling -->
 <div align="center">
 <pre style="background: linear-gradient(45deg, #000428, #004e92); color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap; box-shadow: 0 0 15px rgba(0,255,0,0.2);">
-┌────────────────────────────────────────────────────────────┐
 <!-- About Me Section with enhanced styling -->
 <div align="center">
 <pre style="background: linear-gradient(45deg, #0f172a, #0c4a6e); color:#0ea5e9; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap; box-shadow: 0 0 15px rgba(14,165,233,0.3);">
