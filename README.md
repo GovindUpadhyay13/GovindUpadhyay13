@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Top banner with custom header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:6f42c1,100:0ea5e9&height=190&section=header&text=Govind%20Upadhyay&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
