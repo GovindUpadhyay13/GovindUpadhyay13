@@ -22,7 +22,7 @@
 
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=650&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+GestureCTRL+%E2%80%94+hands-free+desktop+automation;AI%2FML+%7C+Computer+Vision+%7C+FastAPI+%7C+React;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=650&color=70A5FD&center=true&vCenter=true&width=720&lines=AI%2FML+%7C+Computer+Vision+%7C+FastAPI+%7C+React;Always+learning%2C+always+shipping" />
 </p>
 
 ---
