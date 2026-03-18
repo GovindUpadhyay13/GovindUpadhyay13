@@ -27,7 +27,27 @@
 </p>
 
 ---
+<div align="center">
+  <!-- Futuristic animated header -->
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Crafting+Digital+Experiences;Taher+Here&center=true&width=500&height=60&color=0F0&vCenter=true&pause=1000" alt="Futuristic Header">
+  <img src="https://i.pinimg.com/originals/59/e1/8f/59e18f5ab8f18d6c6d2c8a6a7f0d5e7e.gif" alt="App Development Animation" style="width:100%;">
+</div>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=TaherMerchant25&theme=radical" />
 
+
+</div>
+
+<!-- Matrix Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation">
+</div>
+
+<!-- About Me Section with enhanced styling -->
+<!-- About Me Section with enhanced styling -->
+<div align="center">
+<pre style="background: linear-gradient(45deg, #000428, #004e92); color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap; box-shadow: 0 0 15px rgba(0,255,0,0.2);">
+┌────────────────────────────────────────────────────────────┐
 <!-- About Me Section with enhanced styling -->
 <div align="center">
 <pre style="background: linear-gradient(45deg, #0f172a, #0c4a6e); color:#0ea5e9; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap; box-shadow: 0 0 15px rgba(14,165,233,0.3);">
