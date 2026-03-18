@@ -1,4 +1,4 @@
-<!-- Profile README for GovindUpadhyay13 (Enhanced AI/ML + Computer Vision Focus + Taher-Style) -->
+
 
 <!-- Top banner with custom header -->
 <p align="center">
@@ -29,11 +29,11 @@
 ---
 <div align="center">
   <!-- Futuristic animated header -->
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Crafting+Digital+Experiences;Taher+Here&center=true&width=500&height=60&color=0F0&vCenter=true&pause=1000" alt="Futuristic Header">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Crafting+Digital+Experiences;Govind+Here&center=true&width=500&height=60&color=0F0&vCenter=true&pause=1000" alt="Futuristic Header">
   <img src="https://i.pinimg.com/originals/59/e1/8f/59e18f5ab8f18d6c6d2c8a6a7f0d5e7e.gif" alt="App Development Animation" style="width:100%;">
 </div>
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=TaherMerchant25&theme=radical" />
+  <img src="https://github-trophies.vercel.app/?username=govindupadhyay13&theme=radical" />
 
 
 </div>
