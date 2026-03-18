@@ -9,7 +9,6 @@
   <a href="https://linkedin.com/in/govindupadhyay1"><b>LinkedIn</b></a> ·
   <a href="mailto:govindupadhyay1307@gmail.com"><b>Email</b></a> ·
   <a href="https://github.com/GovindUpadhyay13?tab=repositories"><b>Projects</b></a> ·
-  <a href="https://github.com/GovindUpadhyay13"><b>GitHub</b></a>
 </p>
 
 <!-- Badges row -->
