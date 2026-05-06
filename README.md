@@ -58,45 +58,6 @@
 </pre>
 </div>
 
-
----
-
-### AI/ML & Computer Vision Development Expertise
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindUpadhyay13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
-</div>
-
-```text
-Gesture Recognition      ██████████████████░░   95%
-Computer Vision          ██████████████████░░   90%
-Deep Learning            █████████████████░░░   85%
-Data Preprocessing       █████████████████░░░   85%
-Model Training           ██████████████████░░   90%
-TensorFlow/PyTorch       ██████████████████░░   90%
-MediaPipe Integration    ██████████████████░░   90%
-ML Ops & Deployment      ████████████████░░░░   80%
-```
-
----
-
-### 💻 Backend & Full Stack Development Expertise
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindUpadhyay13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages"/>
-</div>
-
-```text
-FastAPI Development      ██████████████████░░   90%
-Backend Architecture     █████████████████░░░   85%
-React.js Frontend        ████████████████░░░░   80%
-Next.js Framework        ████████████████░░░░   80%
-WebSocket Integration    █████████████████░░░   85%
-Database Design          ████████████████░░░░   80%
-DSA & Problem Solving    ██████████████░░░░░░   75%
-Automation & Scripts     ██████████████████░░   90%
-```
-
 ---
 
 ## 📊 GitHub Stats
