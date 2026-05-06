@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=govindupadhyay13&theme=radical" />
+  <img src="https://github-trophies.vercel.app/?username=GovindUpadhyay13&theme=radical" />
 </div>
 
 <!-- Matrix Animation -->
@@ -63,16 +63,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GovindUpadhyay13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GovindUpadhyay13&theme=radical&utcOffset=5.5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GovindUpadhyay13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GovindUpadhyay13&theme=radical&utcOffset=5.5&cache_seconds=1800" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GovindUpadhyay13&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=GovindUpadhyay13&theme=radical&cache_seconds=1800" alt="GitHub Streak"/>
 </p>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GovindUpadhyay13&custom_title=Govind's%20Contribution%20Graph&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GovindUpadhyay13&custom_title=Govind's%20Contribution%20Graph&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=0ea5e9&area=true&hide_border=true&cache_seconds=1800" />
 
 ---
 
