@@ -61,7 +61,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GovindUpadhyay13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GovindUpadhyay13&theme=radical&utcOffset=5.5" />
